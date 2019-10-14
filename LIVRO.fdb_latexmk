@@ -1,5 +1,5 @@
 # Fdb version 3
-["lualatex"] 1571083564 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1571083571
+["lualatex"] 1571085224 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1571085231
   "/etc/texmf/tex/generic/config/language.dat" 1501615481 6367 641735e2f987308ac3125ca745743b9d ""
   "/home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/formular-bold.luc" 1556123292 145434 733ccd96bf349efdf31e0c1ee13b54f8 ""
   "/home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/formular-regular.luc" 1556047516 149467 873bce6e284ab4d9ba4daedb37f25e6e ""
@@ -233,14 +233,14 @@
   "/usr/share/texmf-dist/tex/luatex/luatexbase/luatexbase.sty" 1501615463 10170 b1a2248f43cab899e3fe36f676176865 ""
   "/usr/share/texmf-dist/tex/plain/ifetex/ifetex.tex" 1501615464 1166 4b66ad073c6073cb1bde651c18b7dbb2 ""
   "/var/lib/texmf/web2c/luatex/lualatex.fmt" 1509478218 1350509 fd6a6094b87503d3862a692ec974558b ""
-  "INPUTS.aux" 1571083570 5584 f43af67c52f0c4fcd8d80a3ce5bc4ab5 ""
+  "INPUTS.aux" 1571085230 5583 8672a8f50905f7045c43ef4c4b686788 ""
   "INPUTS.tex" 1571080389 46 c64b21f5e371687749d50a4c41c1905c ""
-  "LIVRO.aux" 1571083570 540 6aa668b755f07b9154c307edfcca7e2f ""
+  "LIVRO.aux" 1571085230 540 8402cbd12ce241b880a94486daa2f988 ""
   "LIVRO.tex" 1571082902 4241 beb6838095ec469a3609308b54687e94 ""
-  "LIVRO.toc" 1571083570 2266 2b091a7eb82881b1a13ea8d5a740d88d ""
-  "ORIGINAIS.tex" 1571083515 194856 52775a6892da9505ecd087494aa40eaf ""
+  "LIVRO.toc" 1571085230 2265 c5c5d86f1e92ca41954a5633d14683ed ""
+  "ORIGINAIS.tex" 1571085215 195083 9b6149073e6928ca92d6722e7f793051 ""
   "PRETAS.tex" 1571083020 116 891a4f7bb2dcfac92d85ed5db7e24706 ""
-  "PUBLICIDADE.aux" 1571083570 1772 a9267ba317d68d9b3fe1d624d25e536d ""
+  "PUBLICIDADE.aux" 1571085230 1772 600f1201b34e1ec2214ab12f9c573fa3 ""
   "PUBLICIDADE.tex" 1571082850 11724 1cd02bf125f5c2413a07b06f3afb2558 ""
   "fichatecnica.sty" 1571082956 2273 748b8fd9e9288547fd6182143d0cfe57 ""
   "fronthedra.tex" 1571083083 4098 e07efbf5e53c4c6b3c3ea283447b1679 ""
@@ -263,8 +263,8 @@
   "tipografia.sty" 1571082850 9969 4482ee9ca783c256e73b20cb46d97e8c ""
   (generated)
   "LIVRO.toc"
+  "LIVRO.log"
   "PUBLICIDADE.aux"
+  "INPUTS.aux"
   "LIVRO.pdf"
   "LIVRO.aux"
-  "INPUTS.aux"
-  "LIVRO.log"
