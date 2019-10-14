@@ -1,0 +1,42 @@
+\select@language {brazilian}
+\hyphenpenalty =10000\thispagestyle {empty}
+\contentsline {chapter}{Começo, \emph {por Enrique Menezes}}{7}
+\contentsline {chapter}{Dansa da Santa Cruz}{11}
+\contentsline {chapter}{Moçambique}{25}
+\contentsline {section}{(Cantos e Dansas, recolhidos do natural, em Santa Izabel, Estado de São Paulo.)}{25}
+\contentsline {section}{Personagens e Indumentaria}{26}
+\contentsline {section}{Instrumentos}{28}
+\contentsline {section}{O BAILADO}{29}
+\contentsline {section}{Explicação das grafias coreograficas}{33}
+\contentsline {section}{Coreografia nº 3}{34}
+\contentsline {section}{Coreografia nº 1}{35}
+\contentsline {section}{Coreografia nº 2}{36}
+\contentsline {section}{DANSA Nº 2}{40}
+\contentsline {section}{Figurações}{41}
+\contentsline {section}{DANSA Nº 3}{43}
+\contentsline {section}{Figurações}{44}
+\contentsline {section}{DANSA Nº 4}{45}
+\contentsline {section}{Figurações}{46}
+\contentsline {section}{DANSA Nº 5}{48}
+\contentsline {section}{Figurações}{49}
+\contentsline {section}{DANSA Nº 6}{49}
+\contentsline {section}{Figurações}{50}
+\contentsline {section}{DANSA Nº 7}{50}
+\contentsline {section}{Figurações}{51}
+\contentsline {section}{Conclusão}{53}
+\contentsline {chapter}{Mário de Andrade, Moçambique e a Santa Cruz, \emph {por Enrique Menezes}}{57}
+\contentsline {section}{Bibliografia}{83}
+\contentsline {chapter}{Paulicéia desordenada -- modernismo e poder, \emph {por Carlos Pires e Enrique Menezes}}{87}
+\contentsline {section}{Modernistas entre trabalhadores e ricaços}{89}
+\contentsline {section}{Mário de Andrade, modernismo e política}{95}
+\contentsline {section}{O Departamento de Cultura}{101}
+\contentsline {section}{A dor que vive aqui}{110}
+\contentsline {section}{Bibliografia}{114}
+\contentsline {chapter}{São Paulo fonografado, \emph {por Biancamaria Binazzi e Enrique Menezes}}{117}
+\contentsline {section}{Coleções de sons pelo mundo: inspirações}{122}
+\contentsline {section}{As gravações sonoras do Departamento de Cultura}{127}
+\contentsline {section}{Série Música Erudita (ME)}{129}
+\contentsline {section}{Série Arquivo da Palavra (AP)}{130}
+\contentsline {section}{Série Folclore (F)}{130}
+\contentsline {section}{Bibliografia}{137}
+\contentsfinish 
