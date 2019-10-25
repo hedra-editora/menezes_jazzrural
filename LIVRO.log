@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  18 OCT 2019 15:01
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  25 OCT 2019 18:45
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.272 seconds
+luaotfload | main : initialization completed in 0.242 seconds
 Babel <3.12> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1798,16 +1798,16 @@ RS)
 ] [3] (./PRETAS.tex) [4
 
 ]
-(./LIVRO.toc) [5] [6]
+(./LIVRO.toc) [5]
 \openout2 = INPUTS.aux
- (./INPUTS.tex (./ORIGINAIS.tex
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 6.
- [7
+ (./INPUTS.tex (./ORIGINAIS.tex [6
 
 
 
 ]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 6.
+ [7]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 36.
  [8] [9] [10
@@ -2032,7 +2032,7 @@ ertine/LinLibertine_R.otf></usr/share/texmf-dist/fonts/opentype/public/libertine
 are/texmf-dist/fonts/opentype/public/lm/lmmono8-regular.otf></usr/share/texmf-di
 st/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/share/texmf-dist/fonts/typ
 e1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (152 pages, 8859420 bytes).
+Output written on LIVRO.pdf (152 pages, 8860070 bytes).
 
 PDF statistics: 546 PDF objects out of 1000 (max. 8388607)
  355 compressed objects within 4 object streams
