@@ -373,6 +373,9 @@ INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr5.tfm
 INPUT /home/editorial/texmf/tex/frontconselho.tex
 INPUT /home/editorial/texmf/tex/frontconselho.tex
+INPUT ./logo_proac.pdf
+INPUT ./logo_proac.pdf
+INPUT ./logo_proac.pdf
 INPUT ./PRETAS.tex
 INPUT ./PRETAS.tex
 INPUT ./PRETAS.tex
