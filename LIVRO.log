@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  14 NOV 2019 13:54
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  18 NOV 2019 18:36
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.243 seconds
+luaotfload | main : initialization completed in 0.234 seconds
 Babel <3.12> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1796,28 +1796,27 @@ RS)
 (/home/editorial/texmf/tex/frontconselho.tex) [2
 
 ]
-warning  (file ./logo_proac.pdf) (pdf inclusion): PDF inclusion: found PDF versi
-on '1.7', but at most version '1.5' allowed
-<./logo_proac.pdf, id=15, pagebox=cropbox, 605.75308pt x 73.52469pt>
+<./logo_proac.pdf, id=15, pagebox=cropbox, 605.62259pt x 90.3375pt>
 File: ./logo_proac.pdf Graphic file (type pdf)
 <use ./logo_proac.pdf>
 Package luatex.def Info: ./logo_proac.pdf  used on input line 158. on input line
  158.
-Package luatex.def Info: Requested size: 227.62204pt x 27.62778pt on input line 
+Package luatex.def Info: Requested size: 227.62204pt x 33.95366pt on input line 
 158.
-[3<./logo_proac.pdf>] (./PRETAS.tex) [4
+ [3<./logo_proac.pdf>]
+(./PRETAS.tex) [4
 
 ] (./LIVRO.toc) [5]
 \openout2 = INPUTS.aux
- (./INPUTS.tex
-(./ORIGINAIS.tex [6
+ (./INPUTS.tex (./ORIGINAIS.tex [6
 
 
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 6.
- [7]
+
+[7]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 36.
  [8] [9] [10
@@ -1829,7 +1828,7 @@ a-mente o
  []
 
 [11] [12] [13] [14]
-<./imgs/img1.jpg, id=59, pagebox=cropbox, 935.495pt x 119.44624pt>
+<./imgs/img1.jpg, id=60, pagebox=cropbox, 935.495pt x 119.44624pt>
 File: ./imgs/img1.jpg Graphic file (type jpg)
 <use ./imgs/img1.jpg>
 Package luatex.def Info: ./imgs/img1.jpg  used on input line 176. on input line 
@@ -1841,7 +1840,7 @@ Overfull \hbox (0.52756pt too wide) in paragraph at lines 176--179
  [][] 
  []
 
-<./imgs/img2.jpg, id=60, pagebox=cropbox, 1783.66376pt x 521.95pt>
+<./imgs/img2.jpg, id=61, pagebox=cropbox, 1783.66376pt x 521.95pt>
 File: ./imgs/img2.jpg Graphic file (type jpg)
 <use ./imgs/img2.jpg>
 Package luatex.def Info: ./imgs/img2.jpg  used on input line 197. on input line 
@@ -1857,7 +1856,7 @@ Overfull \hbox (0.52756pt too wide) in paragraph at lines 197--198
 [23] [24] [25
 
 ] [26] [27] [28] [29] [30]
-<./imgs/img3.jpg, id=111, pagebox=cropbox, 1478.52374pt x 1447.4075pt>
+<./imgs/img3.jpg, id=112, pagebox=cropbox, 1478.52374pt x 1447.4075pt>
 File: ./imgs/img3.jpg Graphic file (type jpg)
 <use ./imgs/img3.jpg>
 Package luatex.def Info: ./imgs/img3.jpg  used on input line 609. on input line 
@@ -1870,7 +1869,7 @@ Overfull \hbox (0.52756pt too wide) in paragraph at lines 609--610
  []
 
 [31] [32<./imgs/img3.jpg>] [33] [34] [35] [36]
-<./imgs/img4.jpg, id=131, pagebox=cropbox, 160.6pt x 280.04625pt>
+<./imgs/img4.jpg, id=132, pagebox=cropbox, 160.6pt x 280.04625pt>
 File: ./imgs/img4.jpg Graphic file (type jpg)
 <use ./imgs/img4.jpg>
 Package luatex.def Info: ./imgs/img4.jpg  used on input line 748. on input line 
@@ -1878,7 +1877,7 @@ Package luatex.def Info: ./imgs/img4.jpg  used on input line 748. on input line
 Package luatex.def Info: Requested size: 36.98857pt x 64.49901pt on input line 7
 48.
  [37<./imgs/img4.jpg>]
-<./imgs/img5.jpg, id=135, pagebox=cropbox, 456.70625pt x 320.19624pt>
+<./imgs/img5.jpg, id=136, pagebox=cropbox, 456.70625pt x 320.19624pt>
 File: ./imgs/img5.jpg Graphic file (type jpg)
 <use ./imgs/img5.jpg>
 Package luatex.def Info: ./imgs/img5.jpg  used on input line 782. on input line 
@@ -1887,7 +1886,7 @@ Package luatex.def Info: Requested size: 256.0748pt x 179.5383pt on input line 7
 82.
  [38]
 [39<./imgs/img5.jpg>] [40] [41] [42] [43] [44]
-<./imgs/img6.jpg, id=158, pagebox=cropbox, 1625.07124pt x 586.19pt>
+<./imgs/img6.jpg, id=159, pagebox=cropbox, 1625.07124pt x 586.19pt>
 File: ./imgs/img6.jpg Graphic file (type jpg)
 <use ./imgs/img6.jpg>
 Package luatex.def Info: ./imgs/img6.jpg  used on input line 938. on input line 
@@ -1900,7 +1899,7 @@ Overfull \hbox (0.52756pt too wide) in paragraph at lines 938--941
  []
 
 [45<./imgs/img6.jpg>] [46] [47]
-<./imgs/img7.jpg, id=168, pagebox=cropbox, 1613.02625pt x 324.21124pt>
+<./imgs/img7.jpg, id=169, pagebox=cropbox, 1613.02625pt x 324.21124pt>
 File: ./imgs/img7.jpg Graphic file (type jpg)
 <use ./imgs/img7.jpg>
 Package luatex.def Info: ./imgs/img7.jpg  used on input line 1014. on input line
@@ -1913,7 +1912,7 @@ Overfull \hbox (0.52756pt too wide) in paragraph at lines 1014--1017
  []
 
 [48<./imgs/img7.jpg>]
-<./imgs/img8.jpg, id=172, pagebox=cropbox, 1549.79pt x 347.2975pt>
+<./imgs/img8.jpg, id=174, pagebox=cropbox, 1549.79pt x 347.2975pt>
 File: ./imgs/img8.jpg Graphic file (type jpg)
 <use ./imgs/img8.jpg>
 Package luatex.def Info: ./imgs/img8.jpg  used on input line 1045. on input line
@@ -1926,7 +1925,7 @@ Overfull \hbox (0.52756pt too wide) in paragraph at lines 1045--1048
  []
 
 [49<./imgs/img8.jpg>]
-<./imgs/img9.jpg, id=176, pagebox=cropbox, 1550.79375pt x 543.02875pt>
+<./imgs/img9.jpg, id=178, pagebox=cropbox, 1550.79375pt x 543.02875pt>
 File: ./imgs/img9.jpg Graphic file (type jpg)
 <use ./imgs/img9.jpg>
 Package luatex.def Info: ./imgs/img9.jpg  used on input line 1076. on input line
@@ -1952,7 +1951,7 @@ ono10-regular.luc)
 
 ]
 [88] [89] [90]
-<./imgs/fig1.jpg, id=305, pagebox=cropbox, 1146.2825pt x 809.0225pt>
+<./imgs/fig1.jpg, id=306, pagebox=cropbox, 1146.2825pt x 809.0225pt>
 File: ./imgs/fig1.jpg Graphic file (type jpg)
 <use ./imgs/fig1.jpg>
 Package luatex.def Info: ./imgs/fig1.jpg  used on input line 2156. on input line
@@ -1965,7 +1964,7 @@ Overfull \hbox (0.52756pt too wide) in paragraph at lines 2156--2157
  []
 
 [91<./imgs/fig1.jpg>] [92]
-<./imgs/fig2.jpg, id=313, pagebox=cropbox, 929.4725pt x 622.325pt>
+<./imgs/fig2.jpg, id=314, pagebox=cropbox, 929.4725pt x 622.325pt>
 File: ./imgs/fig2.jpg Graphic file (type jpg)
 <use ./imgs/fig2.jpg>
 Package luatex.def Info: ./imgs/fig2.jpg  used on input line 2189. on input line
@@ -1978,7 +1977,7 @@ Overfull \hbox (0.52756pt too wide) in paragraph at lines 2189--2192
  []
 
 [93<./imgs/fig2.jpg>]
-<./imgs/fig3.jpg, id=317, pagebox=cropbox, 1224.575pt x 857.2025pt>
+<./imgs/fig3.jpg, id=318, pagebox=cropbox, 1224.575pt x 857.2025pt>
 File: ./imgs/fig3.jpg Graphic file (type jpg)
 <use ./imgs/fig3.jpg>
 Package luatex.def Info: ./imgs/fig3.jpg  used on input line 2215. on input line
@@ -2037,15 +2036,15 @@ Here is how much of LuaTeX's memory you used:
 {/usr/share/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</home/editorial/
 texmf/tex/fonts/Formular-Regular.otf></usr/share/texmf-dist/fonts/opentype/publi
 c/libertine/LinLibertine_RI.otf></usr/share/texmf-dist/fonts/opentype/public/lib
-ertine/LinLibertine_RB.otf></usr/share/texmf-dist/fonts/opentype/public/libertin
-e/LinLibertine_R.otf></home/editorial/texmf/tex/fonts/Formular-Bold.otf></usr/sh
+ertine/LinLibertine_R.otf></usr/share/texmf-dist/fonts/opentype/public/libertine
+/LinLibertine_RB.otf></home/editorial/texmf/tex/fonts/Formular-Bold.otf></usr/sh
 are/texmf-dist/fonts/opentype/public/lm/lmmono8-regular.otf></usr/share/texmf-di
 st/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/share/texmf-dist/fonts/typ
 e1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (152 pages, 9162550 bytes).
+Output written on LIVRO.pdf (152 pages, 8883874 bytes).
 
-PDF statistics: 553 PDF objects out of 1000 (max. 8388607)
- 357 compressed objects within 4 object streams
+PDF statistics: 554 PDF objects out of 1000 (max. 8388607)
+ 360 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
