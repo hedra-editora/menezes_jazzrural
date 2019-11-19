@@ -1,5 +1,5 @@
 # Fdb version 3
-["lualatex"] 1574112994 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1574113001
+["lualatex"] 1574191400 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1574191415
   "/etc/texmf/tex/generic/config/language.dat" 1501615481 6367 641735e2f987308ac3125ca745743b9d ""
   "/home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/formular-bold.luc" 1556123292 145434 733ccd96bf349efdf31e0c1ee13b54f8 ""
   "/home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/formular-regular.luc" 1556047516 149467 873bce6e284ab4d9ba4daedb37f25e6e ""
@@ -233,14 +233,14 @@
   "/usr/share/texmf-dist/tex/luatex/luatexbase/luatexbase.sty" 1501615463 10170 b1a2248f43cab899e3fe36f676176865 ""
   "/usr/share/texmf-dist/tex/plain/ifetex/ifetex.tex" 1501615464 1166 4b66ad073c6073cb1bde651c18b7dbb2 ""
   "/var/lib/texmf/web2c/luatex/lualatex.fmt" 1509478218 1350509 fd6a6094b87503d3862a692ec974558b ""
-  "INPUTS.aux" 1574113000 5662 c15e13c4823e816457fbae67d8b6063e ""
+  "INPUTS.aux" 1574191413 5662 c15e13c4823e816457fbae67d8b6063e ""
   "INPUTS.tex" 1571080389 46 c64b21f5e371687749d50a4c41c1905c ""
-  "LIVRO.aux" 1574113000 540 cb1a38579833b793abe8c629a1ca50bd ""
+  "LIVRO.aux" 1574191414 540 cb1a38579833b793abe8c629a1ca50bd ""
   "LIVRO.tex" 1571082902 4241 beb6838095ec469a3609308b54687e94 ""
-  "LIVRO.toc" 1574113000 2324 ed01799147245f0b8888f2a7be2df281 ""
-  "ORIGINAIS.tex" 1571087386 196391 ceda9e7dfa8f6236e2574e11e7ae30d3 ""
+  "LIVRO.toc" 1574191414 2324 ed01799147245f0b8888f2a7be2df281 ""
+  "ORIGINAIS.tex" 1574191360 196383 504a7e7f54887830b5ab7beecfe854ec ""
   "PRETAS.tex" 1573749589 840 1a64e718bce4123b19bcff12605c0cda ""
-  "PUBLICIDADE.aux" 1574113000 1772 b07c1b838810696ba7cfab712de1e561 ""
+  "PUBLICIDADE.aux" 1574191414 1772 b07c1b838810696ba7cfab712de1e561 ""
   "PUBLICIDADE.tex" 1571082850 11724 1cd02bf125f5c2413a07b06f3afb2558 ""
   "fichatecnica.sty" 1574112853 2274 8efeada30b205d0bd4141e2879b46492 ""
   "fronthedra.tex" 1573749698 4299 b25e68d449931267633edbcbe227dfb5 ""
@@ -263,9 +263,9 @@
   "logo_proac.pdf" 1574112332 25321 fd14127285529e6c513425a6fe8b7a44 ""
   "tipografia.sty" 1571082850 9969 4482ee9ca783c256e73b20cb46d97e8c ""
   (generated)
-  "PUBLICIDADE.aux"
   "INPUTS.aux"
+  "PUBLICIDADE.aux"
   "LIVRO.aux"
+  "LIVRO.toc"
   "LIVRO.pdf"
   "LIVRO.log"
-  "LIVRO.toc"
