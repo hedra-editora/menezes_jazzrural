@@ -1,8 +1,8 @@
-\select@language {brazilian}
+\babel@toc {brazilian}{}
 \hyphenpenalty =10000\thispagestyle {empty}
 \contentsline {chapter}{Começo, \emph {por Enrique Menezes} \vspace \medskipamount }{7}
-\contentsline {chapter}{Dansa da Santa Cruz}{11}
-\contentsline {chapter}{Moçambique}{25}
+\contentsline {chapter}{Dansa da Santa Cruz, \emph {por Mário de Andrade}}{11}
+\contentsline {chapter}{Moçambique, \emph {por Mário de Andrade}}{25}
 \contentsline {section}{(Cantos e Dansas, recolhidos do natural, em~Santa~Izabel, Estado de São Paulo.)}{25}
 \contentsline {section}{Personagens e Indumentaria}{26}
 \contentsline {section}{Instrumentos}{28}
@@ -23,7 +23,7 @@
 \contentsline {section}{Figurações}{49}
 \contentsline {section}{DANSA Nº~7}{50}
 \contentsline {section}{Figurações}{50}
-\contentsline {section}{Conclusão}{53}
+\contentsline {section}{Conclusão}{52}
 \contentsline {part}{Ensaios}{55}
 \contentsline {chapter}{Mário de Andrade, Moçambique e a Santa Cruz, \emph {por Enrique Menezes}}{57}
 \contentsline {section}{Bibliografia}{83}
@@ -31,13 +31,13 @@
 \contentsline {section}{Modernistas entre trabalhadores e ricaços}{89}
 \contentsline {section}{Mário de Andrade, modernismo e política}{95}
 \contentsline {section}{O Departamento de Cultura}{101}
-\contentsline {section}{A dor que vive aqui}{111}
+\contentsline {section}{A dor que vive aqui}{110}
 \contentsline {section}{Bibliografia}{115}
 \contentsline {chapter}{São Paulo fonografado, \emph {por Biancamaria Binazzi e Enrique Menezes}}{117}
 \contentsline {section}{Coleções de sons pelo mundo: inspirações}{122}
 \contentsline {section}{As gravações sonoras do Departamento~de~Cultura}{127}
 \contentsline {section}{Série Música Erudita (ME)}{129}
 \contentsline {section}{Série Arquivo da Palavra (AP)}{130}
-\contentsline {section}{Série Folclore (F)}{131}
+\contentsline {section}{Série Folclore (F)}{130}
 \contentsline {section}{Bibliografia}{137}
 \contentsfinish 
