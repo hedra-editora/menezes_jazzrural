@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  23 JUN 2020 14:51
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  24 JUN 2020 18:10
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.091 seconds
+luaotfload | main : initialization completed in 0.090 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1203,26 +1203,31 @@ eric/fonts/otl/linlibertine-rb.luc)(load luc: /home/edlab/.texlive2017/texmf-var
 . fontspec info: "defining-font"
 . 
 . Font family 'LinuxLibertineO(0)' created for font 'Linux Libertine O' with
-. options [Ligatures=TeX].
+. options [Numbers={Proportional,OldStyle},Ligatures=TeX].
 .  
 .  This font family consists of the following NFSS series/shapes:
 .  
 . - 'normal' (m/n) with NFSS spec.:
-. <->"LinuxLibertineO:mode=node;script=latn;language=DFLT;+tlig;"
+. <->"LinuxLibertineO:mode=node;script=latn;language=DFLT;+pnum;+onum;+tlig;"
 . - 'small caps'  (m/sc) with NFSS spec.:
-. <->"LinuxLibertineO:mode=node;script=latn;language=DFLT;+tlig;+smcp;"
+. <->"LinuxLibertineO:mode=node;script=latn;language=DFLT;+pnum;+onum;+tlig;+smc
+p;"
 . - 'bold' (bx/n) with NFSS spec.:
-. <->"LinuxLibertineO/B:mode=node;script=latn;language=DFLT;+tlig;"
+. <->"LinuxLibertineO/B:mode=node;script=latn;language=DFLT;+pnum;+onum;+tlig;"
 . - 'bold small caps'  (bx/sc) with NFSS spec.:
-. <->"LinuxLibertineO/B:mode=node;script=latn;language=DFLT;+tlig;+smcp;"
+. <->"LinuxLibertineO/B:mode=node;script=latn;language=DFLT;+pnum;+onum;+tlig;+s
+mcp;"
 . - 'italic' (m/it) with NFSS spec.:
-. <->"LinuxLibertineO/I:mode=node;script=latn;language=DFLT;+tlig;"
+. <->"LinuxLibertineO/I:mode=node;script=latn;language=DFLT;+pnum;+onum;+tlig;"
 . - 'italic small caps'  (m/itsc) with NFSS spec.:
-. <->"LinuxLibertineO/I:mode=node;script=latn;language=DFLT;+tlig;+smcp;"
+. <->"LinuxLibertineO/I:mode=node;script=latn;language=DFLT;+pnum;+onum;+tlig;+s
+mcp;"
 . - 'bold italic' (bx/it) with NFSS spec.:
-. <->"LinuxLibertineO/BI:mode=node;script=latn;language=DFLT;+tlig;"
+. <->"LinuxLibertineO/BI:mode=node;script=latn;language=DFLT;+pnum;+onum;+tlig;"
+
 . - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
-. <->"LinuxLibertineO/BI:mode=node;script=latn;language=DFLT;+tlig;+smcp;"
+. <->"LinuxLibertineO/BI:mode=node;script=latn;language=DFLT;+pnum;+onum;+tlig;+
+smcp;"
 .................................................
 LaTeX Info: Redefining \rmfamily on input line 6.
 
@@ -1595,15 +1600,15 @@ luaotfload | aux : no font with id 39
 . fontspec info: "defining-font"
 . 
 . Font family 'Formular-Regular(0)' created for font 'Formular-Regular' with
-. options [BoldFont = Formular-Bold.otf].
+. options [Numbers={Proportional,OldStyle},BoldFont = Formular-Bold.otf].
 .  
 .  This font family consists of the following NFSS series/shapes:
 .  
 . - 'normal' (m/n) with NFSS spec.:
-. <->"Formular-Regular:mode=node;script=latn;language=DFLT;"
+. <->"Formular-Regular:mode=node;script=latn;language=DFLT;+pnum;+onum;"
 . - 'small caps'  (m/sc) with NFSS spec.: 
 . - 'bold' (bx/n) with NFSS spec.:
-. <->"Formular-Bold.otf:mode=node;script=latn;language=DFLT;"
+. <->"Formular-Bold.otf:mode=node;script=latn;language=DFLT;+pnum;+onum;"
 . - 'bold small caps'  (bx/sc) with NFSS spec.: 
 .................................................
 
@@ -1980,18 +1985,17 @@ Overfull \hbox (0.52756pt too wide) in paragraph at lines 2216--2217
 AED: lastpage setting LastPage
 
 \openout2 = PUBLICIDADE.aux
-(./PUBLICIDADE.tex [139
+(/home/edlab/texmf/tex/PUBLICIDADE.tex [139
 
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 7--8
+Underfull \hbox (badness 10000) in paragraph at lines 6--8
 
  []
 
-(load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/lmm
-ono9-regular.luc) [140] [141] [142] [143] [144] [145] [146] [147] [148]
-[149] [150] [151]) [152
+[140] [141] [142] [143]) [144
+
 
 ]
 \tf@toc=\write6
@@ -2004,28 +2008,28 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 25002 strings out of 494480
+ 24995 strings out of 494480
  1164392,794899 words of node,token memory allocated
- 1092135 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 122 glue, 1 penalty, 171154 glyph, 27102 attribute,
- 195 glue_spec, 4517 attribute_list, 3 shape, 2 write nodes
-   avail lists: 1:3,2:1382,3:129,4:53,5:538,6:284,7:2721,8:57,9:273,10:24,11:597
+ 1082893 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 122 glue, 1 penalty, 169994 glyph, 26124 attribute,
+ 195 glue_spec, 4354 attribute_list, 3 shape, 2 write nodes
+   avail lists: 1:3,2:2775,3:206,4:111,5:539,6:1223,7:2721,8:57,9:329,10:24,11:5
+97
+ 27789 multiletter control sequences out of 65536+600000
+ 121 fonts using 24046199 bytes
+ 50i,12n,85p,1369b,529s stack positions out of 5000i,500n,10000p,200000b,100000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</usr/sha
+re/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RI.otf></usr/
+share/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_R.otf></us
+r/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RB.otf><
+/home/edlab/texmf/tex/fonts/Formular-Bold.otf></usr/share/texmf/fonts/opentype/p
+ublic/lm/lmmono8-regular.otf></usr/share/texlive/texmf-dist/fonts/type1/arkandis
+/adforn/OrnementsADF.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/latxfont/lcirclew.pfb>
+Output written on LIVRO.pdf (144 pages, 8908477 bytes).
 
- 27794 multiletter control sequences out of 65536+600000
- 123 fonts using 24257199 bytes
- 50i,12n,79p,1369b,529s stack positions out of 5000i,500n,10000p,200000b,100000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</home/ed
-lab/texmf/tex/fonts/Formular-Regular.otf></usr/share/texlive/texmf-dist/fonts/op
-entype/public/libertine/LinLibertine_RI.otf></usr/share/texlive/texmf-dist/fonts
-/opentype/public/libertine/LinLibertine_R.otf></usr/share/texlive/texmf-dist/fon
-ts/opentype/public/libertine/LinLibertine_RB.otf></home/edlab/texmf/tex/fonts/Fo
-rmular-Bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmmono8-regular.otf><
-/usr/share/texlive/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (152 pages, 8921656 bytes).
-
-PDF statistics: 584 PDF objects out of 1000 (max. 8388607)
- 377 compressed objects within 4 object streams
+PDF statistics: 552 PDF objects out of 1000 (max. 8388607)
+ 356 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

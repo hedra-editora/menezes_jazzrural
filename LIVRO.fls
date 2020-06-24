@@ -443,9 +443,8 @@ INPUT ./imgs/fig3.jpg
 INPUT ./imgs/fig3.jpg
 INPUT ./imgs/fig3.jpg
 OUTPUT PUBLICIDADE.aux
-INPUT ./PUBLICIDADE.tex
-INPUT ./PUBLICIDADE.tex
-INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/lmmono9-regular.luc
+INPUT /home/edlab/texmf/tex/PUBLICIDADE.tex
+INPUT /home/edlab/texmf/tex/PUBLICIDADE.tex
 OUTPUT LIVRO.toc
 INPUT ./LIVRO.aux
 INPUT ./INPUTS.aux
