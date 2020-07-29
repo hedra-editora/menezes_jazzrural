@@ -439,9 +439,6 @@ INPUT ./imgs/fig1.png
 INPUT ./imgs/fig2.png
 INPUT ./imgs/fig2.png
 INPUT ./imgs/fig2.png
-INPUT ./imgs/fig3.jpg
-INPUT ./imgs/fig3.jpg
-INPUT ./imgs/fig3.jpg
 OUTPUT PUBLICIDADE.aux
 INPUT /home/edlab/texmf/tex/PUBLICIDADE.tex
 INPUT /home/edlab/texmf/tex/PUBLICIDADE.tex

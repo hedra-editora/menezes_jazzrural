@@ -30,7 +30,7 @@
 \contentsline {chapter}{Paulicéia desordenada -- modernismo e poder, \emph {por Carlos Pires e Enrique Menezes}}{87}
 \contentsline {section}{Modernistas entre trabalhadores e ricaços}{89}
 \contentsline {section}{Mário de Andrade, modernismo e política}{95}
-\contentsline {section}{O Departamento de Cultura}{101}
+\contentsline {section}{O Departamento de Cultura}{100}
 \contentsline {section}{A dor que vive aqui}{110}
 \contentsline {section}{Bibliografia}{115}
 \contentsline {chapter}{São Paulo fonografado, \emph {por Biancamaria Binazzi e Enrique Menezes}}{117}
