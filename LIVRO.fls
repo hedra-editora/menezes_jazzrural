@@ -1,4 +1,4 @@
-PWD /home/edlab/HEDRA/LATEX/menezes_jazzrural
+PWD /home/edlab/HEDRA/LATEX/OLD/menezes_jazzrural
 INPUT /var/lib/texmf/web2c/luatex/lualatex.fmt
 INPUT ./LIVRO.tex
 OUTPUT LIVRO.log

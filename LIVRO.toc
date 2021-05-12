@@ -7,10 +7,10 @@
 \contentsline {section}{Personagens e Indumentaria}{26}
 \contentsline {section}{Instrumentos}{28}
 \contentsline {section}{O BAILADO}{29}
-\contentsline {section}{Explicação das grafias coreograficas}{33}
-\contentsline {section}{Coreografia nº~3}{34}
+\contentsline {section}{Explicação das grafias coreograficas}{32}
+\contentsline {section}{Coreografia nº~3}{33}
 \contentsline {section}{Coreografia nº~1}{35}
-\contentsline {section}{Coreografia nº~2}{36}
+\contentsline {section}{Coreografia nº~2}{35}
 \contentsline {section}{DANSA Nº~2}{40}
 \contentsline {section}{Figurações}{40}
 \contentsline {section}{DANSA Nº~3}{43}
@@ -30,7 +30,7 @@
 \contentsline {section}{Modernistas entre trabalhadores e ricaços}{89}
 \contentsline {section}{Mário de Andrade, modernismo e política}{95}
 \contentsline {section}{O Departamento de Cultura}{100}
-\contentsline {section}{A dor que vive aqui}{110}
+\contentsline {section}{A dor que vive aqui}{109}
 \contentsline {chapter}{São Paulo fonografado, \emph {por Biancamaria Binazzi e Enrique Menezes}}{117}
 \contentsline {section}{Coleções de sons pelo mundo: inspirações}{122}
 \contentsline {section}{As gravações sonoras do Departamento~de~Cultura}{127}

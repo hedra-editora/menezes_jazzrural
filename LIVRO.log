@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  5 AUG 2020 18:25
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  11 MAY 2021 23:45
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.099 seconds
+luaotfload | main : initialization completed in 0.077 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -383,8 +383,8 @@ Top and edge trims: 56.9055pt and 113.81102pt
 Page height and width: 597.50787pt by 369.88582pt
 Text height and width: 476pt by 284pt
 Spine and edge margins: 44.38487pt and 40.97339pt
-Upper and lower margins: 32.30286pt and 89.20502pt
-Headheight and headsep: 14.5pt and 14.22636pt
+Upper and lower margins: 41.21399pt and 80.29388pt
+Headheight and headsep: 14.5pt and 0pt
 Footskip: 30pt
 Columnsep and columnseprule: 10pt and 0pt
 Marginparsep and marginparwidth: 0pt and 71.13188pt
@@ -1884,8 +1884,7 @@ File: ./imgs/img5.png Graphic file (type png)
 <use ./imgs/img5.png>
 Package luatex.def Info: ./imgs/img5.png  used on input line 794.
 (luatex.def)             Requested size: 85.35826pt x 68.29915pt.
- [38]
-[39<./imgs/img5.png>] [40] [41] [42] [43] [44]
+ [38<./imgs/img5.png>] [39] [40] [41] [42] [43] [44]
 <./imgs/img6.png, id=190, 463.0098pt x 175.6161pt>
 File: ./imgs/img6.png Graphic file (type png)
 <use ./imgs/img6.png>
@@ -1983,8 +1982,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--8
 
  []
 
-[140] [141] [142] [143]) [144
+[140] [141]
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
 
+ []
+
+[142] [143] [144] [145]) [146
 
 ]
 \tf@toc=\write6
@@ -1997,16 +2000,16 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 24983 strings out of 494480
- 1164392,794899 words of node,token memory allocated
- 1093615 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 122 glue, 1 penalty, 171375 glyph, 27168 attribute,
- 195 glue_spec, 4528 attribute_list, 3 shape, 2 write nodes
-   avail lists: 1:3,2:2775,3:206,4:111,5:545,6:1223,7:2721,8:57,9:329,10:24,11:5
+ 24985 strings out of 494480
+ 1164373,794899 words of node,token memory allocated
+ 1084747 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 122 glue, 1 penalty, 170037 glyph, 26808 attribute,
+ 195 glue_spec, 4468 attribute_list, 3 shape, 2 write nodes
+   avail lists: 1:6,2:2313,3:207,4:112,5:542,6:1216,7:2513,8:58,9:329,10:24,11:5
 97
  27786 multiletter control sequences out of 65536+600000
- 122 fonts using 24225211 bytes
- 50i,12n,85p,1369b,564s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 122 fonts using 24225287 bytes
+ 50i,12n,85p,1369b,529s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</usr/sha
 re/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RI.otf></usr/
 share/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_R.otf></us
@@ -2015,10 +2018,10 @@ r/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RB.otf><
 ublic/lm/lmmono8-regular.otf></usr/share/texlive/texmf-dist/fonts/type1/arkandis
 /adforn/OrnementsADF.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
 nts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (144 pages, 28633275 bytes).
+Output written on LIVRO.pdf (146 pages, 28629989 bytes).
 
-PDF statistics: 551 PDF objects out of 1000 (max. 8388607)
- 356 compressed objects within 4 object streams
+PDF statistics: 557 PDF objects out of 1000 (max. 8388607)
+ 360 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
